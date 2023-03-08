@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="TrainInformation"/>
+<aop-project name="Eureka-Server"/>
+<aop-project name="Booking"/>
+<aop-project name="Users"/>
+</aop-reference-model>
